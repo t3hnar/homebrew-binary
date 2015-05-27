@@ -2,8 +2,8 @@ require "formula"
 
 class Eventstore < Formula
   homepage "http://geteventstore.com"
-  url "http://download.geteventstore.com/binaries/EventStore-OSS-Mac-v3.0.3.tar.gz"
-  sha1 "1715358a202ef2dbd79b94d3d1b58f8357e8a651"
+  url "http://download.geteventstore.com/binaries/EventStore-OSS-Mac-v3.0.4.tar.gz"
+  sha1 "61e444417621b42ba783e7cf828e43a46b66bc45"
 
   depends_on :macos => :mavericks
 
